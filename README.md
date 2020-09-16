@@ -1,6 +1,6 @@
 # gRPC with NodeJS Demo
 
-> Demo application for my [Node.js With gRPC talk]()
+> Demo application for my [Node.js With gRPC talk](https://speakerdeck.com/khaosdoctor/grpc-with-node-dot-js)
 
 ## Running
 
