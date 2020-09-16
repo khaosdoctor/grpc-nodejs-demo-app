@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/khaosdoctor/grpc-nodejs/issues"
   },
-  "homepage": "https://github.com/khaosdoctor/grpc-nodejs#readme"
+  "homepage": "https://github.com/khaosdoctor/grpc-nodejs#readme",
+  "dependencies": {
+    "grpc": "^1.24.3"
+  }
 }
